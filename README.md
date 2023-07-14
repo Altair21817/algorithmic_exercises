@@ -1,2 +1,2 @@
-# algorithmic_exercises
+# Algorithmic exercises
 My favorite algorithmic exercises
