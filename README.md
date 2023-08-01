@@ -12,9 +12,9 @@ In this repository, I collect the most interesting algorithmic exercises for Pyt
 
 ___
 
-Solved by [Altair21817]
+Solved by [TheSuncatcher222]
 
-[Altair21817]: <https://github.com/Altair21817>
+[TheSuncatcher222]: <https://github.com/TheSuncatcher222>
 
 ___
 
