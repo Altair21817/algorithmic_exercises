@@ -41,12 +41,13 @@ ___
 19. Find weather chaos
 20. Flower beds
 21. Game press all buttons
-22. If brick match hole
-23. If palindrome
-24. Make number palindrome
-25. Plot char bar chart
-26. Plot minesweeper
-27. Print char count row
-28. Sorting of participants of olympiad
-29. Transpose matrix
-30. Words group by chars
+22. Game switch letters
+23. If brick match hole
+24. If palindrome
+25. Make number palindrome
+26. Plot char bar chart
+27. Plot minesweeper
+28. Print char count row
+29. Sorting of participants of olympiad
+30. Transpose matrix
+31. Words group by chars
